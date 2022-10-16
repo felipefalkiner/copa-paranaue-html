@@ -1,0 +1,50 @@
+{
+    "visible":[
+    {
+        "game1":true,
+        "game2":true,
+        "game3":true,
+        "game4":true,
+        "semi1":true,
+        "semi2":true,
+        "champion":true
+    }],
+    "game1":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "game2":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "game3":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "game4":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "semi1":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "semi2":[{
+        "team1name":"Team 1",
+        "team1score": 0,
+        "team2name":"Team 2",
+        "team2score": 0
+    }],
+    "champion":"AAAAAAAAAAAAAAAAAAA"
+
+}
